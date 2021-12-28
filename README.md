@@ -18,12 +18,19 @@ I am a PhD graduate from [Western Norway University of Applied Sciences (HVL)](h
     </a>
 </p>
 
-<div style="display:flex; justify-content:space-between;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshHARDIYA&exclude_repo=WDD223-CMS-Design-and-Development,witcher-api&layout=compact&hide=makefile&theme=react" alt="Most used languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sureshHARDIYA&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" />
-</div>
+</p>
 
-<div style="display:flex; justify-content:space-between;">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sureshHARDIYA&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" />
+</p>
+
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshHARDIYA&theme=react" alt="sureshHARDIYA" />
+</p>
+
+<p align="center">
     <img alig src="https://github-profile-trophy.vercel.app/?username=sureshHARDIYA&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
-</div>
+</p>
