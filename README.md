@@ -20,5 +20,5 @@ I hold a doctorate in Software Engineering from [Western Norway University of Ap
 
 
 <p align="center">
-    <img alig src="https://github-profile-trophy.vercel.app/?username=sureshHARDIYA&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
+    <img alig src="https://github-readme-stats-phi-rosy-24.vercel.app/api?username=sureshhardiya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
