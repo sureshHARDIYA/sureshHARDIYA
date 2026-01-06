@@ -20,7 +20,7 @@ I hold a doctorate in Software Engineering from [Western Norway University of Ap
 
 <br />
 
-![Suresh Kumar Mukhiya's GitHub stats](https://github-readme-stats-phi-rosy-24.vercel.app/api?username=sureshhardiya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![Suresh Kumar Mukhiya's GitHub stats](https://github-readme-stats-phi-rosy-24.vercel.app/api?username=sureshhardiya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
 <br />
 
